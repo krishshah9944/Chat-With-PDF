@@ -9,4 +9,4 @@ langchain_google_genai
 langchain-community
 langchain-groq
 crewai
-crewai tools
+crewai_tools
